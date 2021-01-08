@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Marie Gaine
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor, Department of Department of Pharmaceutical Sciences and Experimental Therapeutics / Division of Division of Pharmaceutics and Translational Therapeutics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Iowa
+  url: "https://pharmacy.uiowa.edu/directory/person/marie-e-gaine"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Genetics 
+- Epigenetics
+- Psychiatric Disorders
 
 education:
   courses:
