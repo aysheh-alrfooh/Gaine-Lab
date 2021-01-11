@@ -64,9 +64,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Student:
-- Research Intern: 
-- Undergrad Student:
+- Grad Student: Aysheh Alrfooh
+- Research Intern: shaylah-mccool
+- Undergrad Student: Benney Michelar
 
 ---
 
