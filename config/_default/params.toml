@@ -89,7 +89,7 @@ phone = "(319) 467-1031"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "4180 South Grand Ave", city = "Iowa City", region = "IA", postcode = "52242", country = "United States", country_code = "US"}
+address = {street = "180 South Grand Ave", city = "Iowa City", region = "IA", postcode = "52242", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
