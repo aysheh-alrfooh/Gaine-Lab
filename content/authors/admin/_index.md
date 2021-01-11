@@ -14,9 +14,7 @@ organizations:
   url: "https://pharmacy.uiowa.edu/directory/person/marie-e-gaine"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
+bio: My researchinterests:
 - Genetics 
 - Epigenetics
 - Psychiatric Disorders
