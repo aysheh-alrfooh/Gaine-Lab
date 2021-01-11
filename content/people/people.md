@@ -16,10 +16,10 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigato: Marie Gaine 
-  - Grad Student: Aysheh Alrfooh 
-  - Research Intern: Shaylah Mccool
-  - Undergrad Studnet: Benney Michela 
+  - Principal Investigato 
+  - Grad Student
+  - Research Intern
+  - Undergrad Studnet
 
 design:
   show_interests: false
