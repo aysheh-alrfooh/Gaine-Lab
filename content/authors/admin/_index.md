@@ -14,7 +14,8 @@ organizations:
   url: "https://pharmacy.uiowa.edu/directory/person/marie-e-gaine"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My researchinterests:
+bio: My research 
+interests:
 - Genetics 
 - Epigenetics
 - Psychiatric Disorders
