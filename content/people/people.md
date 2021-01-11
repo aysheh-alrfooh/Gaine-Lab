@@ -18,8 +18,8 @@ content:
   user_groups:
   - Principal Investigato: Marie Gaine 
   - Grad Student: Aysheh Alrfooh 
-  - Research Intern
-  - Undergrad Studnet 
+  - Research Intern: Shaylah Mccool
+  - Undergrad Studnet: Benney Michela 
 
 design:
   show_interests: false
